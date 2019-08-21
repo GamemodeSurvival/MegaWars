@@ -1,0 +1,4 @@
+name: MegaWars
+main: net.keylon.me.Core
+version: 1.0.0
+api-version: 1.13

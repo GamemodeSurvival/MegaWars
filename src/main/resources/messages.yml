@@ -1,0 +1,10 @@
+PrimaryColor: "&6&l"
+SecondaryColor: "&7"
+GameStart:
+   30: "&6&l30 &7seconds until game begins!"
+   15: "&6&l15 &7seconds until game begins!"
+   10: "&6&l10 &7seconds until game begins!"
+   3: "&6&l3"
+   2: "&6&l2"
+   1: "&6&l1"
+FlagCaptured: "&8(&4Killer&8) &c{player} &7has picked up a flag!"
